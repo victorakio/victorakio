@@ -1,12 +1,14 @@
 ## Hi 😄
 
-### I'm a Wordpress and Front-end Developer 💻
+### I'm a Front-end and Wordpress Developer 💻
 
-Here are some of the technologies i work with:
+Here are some of the technologies I work with:
 
-__Wordpress | PHP | JS | SASS | MySQL | Gulp__
+__React | NextJS | Typescript | Wordpress | PHP | JS | SASS | MySQL | Playwright__
 
-Currently working on my React/React Native and NodeJS skills 👊
+I've been working with front end development for 6 years now, and i focus on delivering the best solutions with quality and performance.
+
+I'm always looking forward to new ways of thinking and adding more value to the projects that i'ma part of, currently i work with tools like Javascript, React, NextJS, Typescript, Jest, Cypress, Playwright, Datadog, Wordpress and PHP.
 
 
 <!--
